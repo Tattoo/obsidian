@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "b9a8a1b7e9da36e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8720da2ea75523b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled/Hightower.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44384c637e41632a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7e9c9ea5a541b3d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5409db065815b8ea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5c7b1489627ce2ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6eeb0a8979d87950",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled/Hightower.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": false
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "8720da2ea75523b5",
+  "lastOpenFiles": [
+    "Untitled/Hightower.md",
+    "Hello.md"
+  ]
+}
